@@ -1,5 +1,6 @@
 ## Reflective Journal Week 1 
-### Your group project last semester (Describe the experience.  Analyse your work - did it turn out well? What actions could you take to improve?)
+### A - Your group project last semester (Describe the experience.  Analyse your work - did it turn out well? What actions could you take to improve?)
+
   
   Reflecting on the group project experience from weeks 6 to 12 in ADS1001, it had been a journey of growth and learning. Initially, the introduction to the project, with a choice between Malaysia house rental pricing and weather forecasting, had left me feeling both overwhelmed and excited. I chose the topic of house rental pricing project, as it suited my interests, and was eager to tackle the tasks ahead.
 
