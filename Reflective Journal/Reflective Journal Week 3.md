@@ -1,4 +1,5 @@
-# Week 3
+## Reflective Journal Week 3 
+### Topic: ADS1002 Project
 
 In Week 3, our group noticed the addition of a section regarding the group project. The project topics included "Temperature and Energy Demand," "Mortality in ICUs," and "Analysis of Rossmann Drugstore Sales." We were astonished and surprised to realise that compared to the previous semester, specific requirements are being asked in the group project.  We held a vote to determine our preferred topic, and "Temperature and Energy Demand" appeared to be the most favourable among the group.
 
