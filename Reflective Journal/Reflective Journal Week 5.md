@@ -5,4 +5,4 @@ By Week 5 of Semester 2, our group successfully cleaned the data by removing N/A
 
 The initial success in data cleaning and merging has laid a strong foundation. However, dropping N/A values might compromise model accuracy. Effectively visualising time series data is still a challenge for us. As the project goes on, my role has expanded from task execution to strategic planning and problem-solving. The challenges require careful application of techniques and clear communication within the group.
 
-To success in this project, we must continue to collaborate closely, review our approach, and adapt strategies as necessary.
+Personally, I found the initial stages of the project to be both exciting and challenging. To success in this project, we must continue to collaborate closely, review our approach, and adapt strategies as necessary. Thus, I maintained my commitment to the project and supported the team's efforts to develop a strong foundation for our work.
