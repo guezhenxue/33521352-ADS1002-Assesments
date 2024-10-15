@@ -8,4 +8,4 @@ Max and I are finalising the last details. We designed the slides to ensure clea
 
 We reviewed the feedback from our mock presentations. This helped us spot areas for improvement. We checked the notebook and report carefully to ensure every detail is correct. The layout of both the notebook and slides is neat. We also refined small things like indentation, bold text, and decimal places to make everything smooth to read.
 
-As week 11 approaches, the project is almost complete. I feel committed to our work and enjoy the final preparations. I hope we perform well in the presentation next week.
+As week 12 approaches, the project is almost complete. I feel committed to our work and enjoy the final preparations. I hope we perform well in the presentation next week.
