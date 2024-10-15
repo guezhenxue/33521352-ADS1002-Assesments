@@ -1,3 +1,6 @@
+## Reflective Journal Week 9
+
+### What is your role in the group and has it changed over the semester? If there were any challenges, how did you deal with them?
 
 This is the final week of our group project. All our notebooks, slides, and reports are ready. We feel both excited and nervous about the presentation next week.
 
